@@ -6,6 +6,7 @@ import WhiteboardCanvas from "./components/WhiteboardCanvas";
 
 const App = () => {
     
+    
 
   return (
     <div>
